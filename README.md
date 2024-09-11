@@ -17,7 +17,7 @@ Este projeto é um jogo de xadrez desenvolvido em Java puro para ser jogado dire
 
 Antes de começar, você precisará ter:
 
-- [Java JDK 20](https://www.oracle.com/java/technologies/javase-jdk20-downloads.html) instalado.
+- [Java JDK 20](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html) instalado.
 
 ## Instalação
 
